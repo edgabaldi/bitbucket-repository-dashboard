@@ -1,0 +1,21 @@
+{
+  "name": "bitbucket-issues-dashboard",
+  "version": "0.1",
+  "homepage": "https://github.com/edgabaldi/bitbucket-issues-dashboard",
+  "authors": [
+    "Edgar Gabaldi <edgabaldi@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-charts": "~0.2.7",
+    "bootstrap": "~3.3.2"
+  }
+}
